@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Nickname generator</string>
+    <string name="add_record">Начать генерацию</string>
+    <string name="generation_button">Сгенерировать</string>
+    <string name="nickname">Никнейм</string>
+    <string name="save">Сохранить</string>
+    <string name="back">Назад</string>
+    <string name="nickname_length">Длина никнейма:</string>
+    <string name="upper_case">Прописные буквы</string>
+    <string name="lower_case">Строчные буквы</string>
+    <string name="digit">Цифры</string>
+    <string name="symbol">Специальные символы</string>
+    <string name="apply">ПРИНЯТЬ</string>
+    <string name="title_activity_generator">Generator</string>
+    <string name="choose_one_point">Хотя бы один пункт должен быть выбран</string>
+</resources>
